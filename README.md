@@ -18,7 +18,7 @@ Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-🌱 Studying at Ecole 42 Paris.<br>
+🌱 Studying at École 42 Paris.<br>
 👨‍🎓 Actively looking for internship opportunities.<br>
 📋 My portfolio
 
